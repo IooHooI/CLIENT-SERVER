@@ -1,0 +1,7 @@
+/Client/.idea/
+/Client/cmake-build-debug/
+/Client/cmake-build-release/
+/Server/.idea/
+/Server/cmake-build-debug/
+/Server/cmake-build-release/
+/.idea
